@@ -10,5 +10,5 @@ Spring Boot: A popular Java framework for building enterprise-level applications
 ####  Getting Started
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/spring-ai-integration.git
+git clone https://github.com/kwishna/SpringBootOpenAI.git
 ```
